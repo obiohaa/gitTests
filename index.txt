@@ -1,0 +1,2 @@
+This is a git text file.
+Please treat as such with care
